@@ -1,0 +1,11 @@
+{
+  "name": "darklang-karen",
+  "version": "1.0.0",
+  "description": "Remove ids",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
