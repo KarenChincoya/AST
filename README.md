@@ -1,4 +1,4 @@
 # How to run 
 
-npm install --save
-node main.js
+### npm install --save
+### node main.js
